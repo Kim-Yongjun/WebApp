@@ -1,2 +1,2 @@
-This is repository for 2019 Web Application 
+This is repository for 2019 Web Application Lab
 
